@@ -1,1 +1,1 @@
-# css_html_project
+# CSS Meetup Project
