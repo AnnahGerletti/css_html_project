@@ -1,1 +1,2 @@
-# css_html_project
+# CSS HTML Project 
+## A simple project in CSS 
